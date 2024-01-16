@@ -1,9 +1,9 @@
 ### Hello there! 👋
 
-<a href="https://github.com/lfeitosaf/github-readme-stats">
+<a href="https://github.com/lfeitosaf/github-readme-stats" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lfeitosaf&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
-<a href="https://github.com/lfeitosaf/convoychat">
+<a href="https://github.com/lfeitosaf/convoychat" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfeitosaf&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 

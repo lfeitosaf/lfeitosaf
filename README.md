@@ -17,9 +17,8 @@
   <img align="center" alt="LucasC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="LucasPostgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="LucasNodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="LucasNodeJS" height="30" width="40" src="https://devicon-website.vercel.app/api/express/original-wordmark.svg?color=%239D9D9D">
 </div>
-
-
 
 <div style ="display: inline_block" align="center">
   <br>
